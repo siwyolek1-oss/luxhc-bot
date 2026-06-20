@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "luxhc bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "luxhc",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "LuxHc.aternos.me",
+    "port": 29721,
     "version": "",
     "try-creative": false
   },
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "chalol78"
+      "password": "kurwa2"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "polecam",
+        "najlepszy serwer na aternos!!!",
+        ""
       ]
     },
     "chat-log": true,
